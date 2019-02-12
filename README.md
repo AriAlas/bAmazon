@@ -4,9 +4,9 @@ Customer is able to view the list of products available and is able to purchase 
 Manager is able to view the list of products available. View the products with low inventory. Add to existing inventory and add new products.
 
 # Technologies used
-## Inquirer NPM package
-## Node.js
-## MySQL
+1. Inquirer NPM package
+1. Node.js
+1. MySQL
 
 
 
